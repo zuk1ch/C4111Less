@@ -1,1 +1,3 @@
-print("Hello, world")
+
+username=input("Введіть своє ім'я: ")
+print(f"Привіт, {username}!")
